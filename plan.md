@@ -4,8 +4,26 @@
 	linux驱动
 	linux内核
 	cpu与soc体系架构
+		arm 32
+		arm 64
+		i386
+		amba
+		pcie/pci
+		risc-v
+		x84_64
 	性能优化
+		perf
+		ftrace
+		ebpf
+		cpu
+		memory
+		net
+		disk
 	操作系统
+		os-tutorial
+		lmos
+		xiebaoyou
+		one 64bit os
 	链接装载
 	虚拟化、容器
 		docker
