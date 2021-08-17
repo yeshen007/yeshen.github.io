@@ -1,1 +1,1 @@
-# This is a project of maintaining my website for docs.
+# This project is for recording my stuff and share on website.
